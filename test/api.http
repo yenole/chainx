@@ -1,0 +1,5 @@
+POST http://127.0.0.1:8080/v1/97
+Content-Type: application/json
+
+{"jsonrpc":"2.0","method":"eth_blockNumber","params":[]}
+###
